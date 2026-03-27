@@ -124,20 +124,7 @@ developer = {
 
 ---
 
-## ◈ &nbsp;`{ ACHIEVEMENTS }`
 
-<div align="center">
-
-| ✦ | Achievement |
-|:---:|:------------|
-| 🏅 | **Smart India Hackathon 2024** — Participant · Team **Clave** · Micro-Doppler Aerial Object Detection |
-| 🏅 | **Smart India Hackathon 2025** — Participant · Team **Code-Adamantor** · Microplastic Detection System |
-
-</div>
-
-<br/>
-
----
 
 ## ◈ &nbsp;`{ EXPERIENCE }`
 
