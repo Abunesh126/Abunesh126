@@ -54,59 +54,70 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 ---
 
-
 <!-- ================= TECH STACK ================= -->
 # 🚀 TECH STACK 
-
 ---
-
-## 💻 Languages
+## 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,dart,php,html,css,bash,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma,styledcomponents,sass,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,styledcomponents" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flexbox-764ABC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ## ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,laravel,postman,nginx,graphql" />
-</p>
-
-## 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,sqlite,redis,firebase" />
-  <img src="https://img.shields.io/badge/Snowflake-0F172A?style=for-the-badge&logoColor=38BDF8" />
-</p>
-
-## ☁️ Cloud, DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,django,laravel" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ## 🤖 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,sklearn,openai" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,sklearn" />
   <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LSTM%20%2F%20RNN-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RNN%20%2F%20LSTM-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Whisper%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 ## 📊 Data & Analytics
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,jupyter" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prefect-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
+## 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase" />
+</p>
+
+## ☁️ Cloud, DevOps & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,netlify,githubactions" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+## 🛠️ Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,figma,blender" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 ---
-
 ## Featured Projects
 
 | Project | Description | Stack |
